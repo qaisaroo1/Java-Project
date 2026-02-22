@@ -1,2 +1,2 @@
 # Java-Project
-This is the Java Project I present to  professsor
+Academic Project focuses mainly on concepts of java (Arrays, 2-D Arrays, File handling)
